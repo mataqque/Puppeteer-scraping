@@ -1,0 +1,5 @@
+2020/11/27-11:12:49.310 11f3 Reusing MANIFEST /home/flavio/Desktop/project/scrap/puppeteer_data/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/27-11:13:21.333 168d Level-0 table #5: started
+2020/11/27-11:13:21.342 168d Level-0 table #5: 1233 bytes OK
+2020/11/27-11:13:21.344 168d Delete type=0 #3
+2020/11/27-11:13:21.344 168d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

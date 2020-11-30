@@ -1,0 +1,13 @@
+{
+  "name": "Screpep",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Flavio",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
