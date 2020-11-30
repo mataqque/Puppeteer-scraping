@@ -30,7 +30,7 @@ const puppeteer = require("puppeteer");
                 post:post    
             }
             console.log(data)
-            return data  
+            return data
 
 		});
 		
